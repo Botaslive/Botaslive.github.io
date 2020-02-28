@@ -1,23 +1,21 @@
-## Welcome to GitHub Pages
+## bienvenido ala prueba uno páginas web botas
 
 You can use the [editor on GitHub](https://github.com/Botaslive/Botaslive.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### el control de plagas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+El control de plagas es la parte mas importante
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-botas
-## Header 2live
-### Header 3
+# creo q es un subtítulo 1
+## Header 2
+### Header 
 
-- Bulleted 1botas
-- List boast
+- Bulleted
+- List 
 
 1. Numbered
 2. List
